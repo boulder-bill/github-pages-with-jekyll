@@ -1,11 +1,12 @@
-title: Your awesome title
-author: GitHub User
-email: your-email@domain.com
+title: Welcome to the world of Boulder Bill!
+author: William Spears
+email: William.w.spears@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Hello!
+  My name is William but my friends call me Boulder Bill.
+  This is my website where I will be learning how to write code and create programs. I am also working on a new youtube channel!
 
+theme: minima
 # social links
 twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
 github_username:  your-github-handle # DO NOT include the @ character, or else the build will fail!
