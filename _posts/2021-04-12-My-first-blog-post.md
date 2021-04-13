@@ -1,6 +1,7 @@
 ---
-title: My First Blog Post
+title: "My First Blog Post"
 date: 2021-04-12
+---
 
 "Sucking at something is the first step at being sorta good at something."- Jake the dog
  
